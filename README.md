@@ -1,1 +1,1 @@
-# HW_GID_KenesbekYerasyl
+# Кенесбек Ерасыл ДЗ БПИ195
